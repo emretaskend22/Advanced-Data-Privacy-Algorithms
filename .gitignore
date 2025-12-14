@@ -1,0 +1,6 @@
+# PyCharm IDE Configuration
+.idea/
+
+# Other common Git ignores
+__pycache__/
+*.pyc
